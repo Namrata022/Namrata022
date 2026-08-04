@@ -33,17 +33,17 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=flask,dotnet" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
 </p>
 
 ### 📊 Data Analytics
