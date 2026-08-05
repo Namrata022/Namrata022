@@ -97,7 +97,7 @@ Employee management application with full CRUD operations.
 
 ## 🌱 Currently Learning
 
-Data Analytics · Power BI · Advanced SQL · Python for Data Science · Machine Learning Basics
+Data Analytics · Power BI · Advanced SQL · Python for Data Science · R Language · Angular Framework · Django Framework  
 
 <br>
 
