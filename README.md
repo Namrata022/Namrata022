@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Namrata Zanzrukiya</h1>
-<h3 align="center">Software Developer | Data Analyst | Lifelong Learner</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about building impactful software and transforming raw data into meaningful insights.
-  I enjoy solving real-world problems through clean code, data visualization, and continuous learning.
-</p>
+# Hi, I'm Namrata Zanzrukiya 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Namrata022&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### Software Developer | Data Analyst | Lifelong Learner
 
----
+Passionate about building impactful software and transforming raw data into meaningful insights.
+I enjoy solving real-world problems through clean code, data visualization, and continuous learning.
+
+<img src="https://komarev.com/ghpvc/?username=Namrata022&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+<br>
 
 ## 👩‍💻 About Me
 
@@ -20,158 +21,106 @@
 - 🌱 Currently learning **Power BI, SQL, Python, and Data Analytics**
 - 🚀 Interested in Web Development, Data Analytics, and Problem Solving
 - 📚 Always exploring new technologies and improving my skills
-- ⚡ Fun Fact: I enjoy turning ideas into real-world projects.
+- ⚡ Fun fact: I enjoy turning ideas into real-world projects
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp" />
-</p>
+**Programming Languages**
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,php,c,cpp" />
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,dotnet" />
-</p>
+**Frontend**
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular" />
 
-### 📊 Data Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+**Backend**
 
-- SQL
-- Power BI
-- Excel
-- Pandas
-- NumPy
+<img src="https://skillicons.dev/icons?i=flask,dotnet" />
 
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma" />
-</p>
+**Database**
 
----
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
 
-# 🚀 Featured Projects
+**Data Analytics**
 
-## 🏥 Hospital Smart Queue Management System
+<img src="https://skillicons.dev/icons?i=python" /> &nbsp; SQL · Power BI · Excel · Pandas · NumPy
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma" />
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🏥 Hospital Smart Queue Management System
 A smart hospital queue management system developed using Flask and MySQL.
 
-### Features
-- Patient Token Generation
-- QR Code Based Queue
-- Admin Dashboard
-- Doctor Management
-- Report Generation
-- Secure Authentication
+**Features:** Patient token generation · QR-code based queue · Admin dashboard · Doctor management · Report generation · Secure authentication
 
-**Tech Stack**
-- Flask
-- Python
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- MySQL
+**Tech Stack:** Flask · Python · HTML · CSS · Bootstrap · JavaScript · MySQL
 
 ---
 
-## 👨‍💼 Employee Management System
+### 👨‍💼 Employee Management System
+Employee management application with full CRUD operations.
 
-Employee management application with CRUD operations.
-
-**Tech Stack**
-
-- PHP
-- MySQL
-- Bootstrap
+**Tech Stack:** PHP · MySQL · Bootstrap
 
 ---
 
-## 📈 Data Analytics Projects
-
+### 📈 Data Analytics Projects
 - Sales Dashboard
 - Customer Analysis
 - Data Cleaning
 - Interactive Power BI Reports
 - SQL Analysis
 
----
+<br>
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Namrata022&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Namrata022&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namrata022&layout=compact&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namrata022&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namrata022&theme=tokyonight" />
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Namrata022&theme=tokyo-night" />
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namrata022&theme=tokyonight"/>
-</p>
+</div>
 
----
+<br>
 
-# 📊 Contribution Graph
+## 🌱 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Namrata022&theme=tokyo-night"/>
-</p>
+Data Analytics · Power BI · Advanced SQL · Python for Data Science · Machine Learning Basics
 
----
+<br>
 
-# 🌱 Currently Learning
-
-- Data Analytics
-- Power BI
-- Advanced SQL
-- Python for Data Science
-- Machine Learning Basics
-
----
-
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://github.com/Namrata022" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
-
 </p>
 
----
-
-## 💡 Quote
+<br>
 
 > *"Code with purpose. Learn continuously. Build solutions that make a difference."*
 
----
+<div align="center">
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+⭐ **Thanks for visiting my profile!** If you like my work, consider starring my repositories.
 
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories.
-</p>
+</div>
