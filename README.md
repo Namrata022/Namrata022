@@ -37,7 +37,7 @@ I enjoy solving real-world problems through clean code, data visualization, and 
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=flask,dotnet" />
+<img src="https://skillicons.dev/icons?i=flask,dotnet,django" />
 
 **Database**
 
@@ -49,7 +49,7 @@ I enjoy solving real-world problems through clean code, data visualization, and 
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,canva" />
 
 <br>
 
@@ -104,10 +104,10 @@ Data Analytics · Power BI · Advanced SQL · Python for Data Science · R Langu
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/namrata-zanzrukiya-390a29392" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:namratazanzrukiya02@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 <a href="https://github.com/Namrata022" target="_blank">
